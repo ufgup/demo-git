@@ -15,7 +15,7 @@ public class Main {
 		
 		int i = 30;
 		while (i > 0){
-			System.out.print(" [ " + i + " ] ");
+			System.out.print(" >> " + i + " << ");
 			if (i%14 == 0) {
 				System.out.println();
 			}
